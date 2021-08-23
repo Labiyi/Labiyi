@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Labiyi
 - 👀 I’m interested in all programming languages
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning js and PHP
 - 💞️ I’m looking to collaborate on HTML, BOOTSTRAP .....
 - 📫 How to reach me asapmolly0@gmail.com
 
